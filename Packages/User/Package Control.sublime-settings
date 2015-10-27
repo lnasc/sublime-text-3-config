@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://localhost:3128",
+	"https_proxy": "http://localhost:3128",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"Bower",
+		"Emmet",
+		"FuzzyFilePath",
+		"Git",
+		"npm",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
+	]
+}
