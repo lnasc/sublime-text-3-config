@@ -13,7 +13,9 @@
 		"Emmet",
 		"FuzzyFilePath",
 		"Git",
+		"JsFormat",
 		"npm",
+		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint"
 	]
